@@ -29,4 +29,4 @@ Each signal is being raised in a different way
 
 Write "make all".
 
-run "./Signals".
+please run "./Signals".
